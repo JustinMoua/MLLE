@@ -1,31 +1,27 @@
-# 🌐 Next.js ACM Website Redesign  
+# 👋 Welcome!
 
-## 📖 Overview  
-This project is a **complete redesign and rebuild** of the Oklahoma State University ACM chapter website. It was developed using **Next.js (React framework)** with **Tailwind CSS** for styling and deployed using **GitHub Pages (via GitHub Actions)**.  
-
-The goal of this project was to create a **modern, responsive, and maintainable web application** that showcases ACM’s events, officers, and resources while providing a smooth user experience across desktop and mobile.  
+Welcome! This repository is a fork of my senior capstone, Machine Learning Learning Environment (MLLE), developed with two classmates, [Samuel Barney](https://github.com/sbarn-okstate) and [Mark Taylor](https://github.com/mark101tay). MLLE is an educative and interactive web-application that allows users to create and experiment with their own machine learning models. 
 
 ---
 
-## 🌟 Live Demo  
+## 🔗 Website
 
-- **🔴 Before Revamp:** [Archived Version (May 2025)](https://web.archive.org/web/20250528135901/https://okstateacm.github.io/)  
-- **🟢 Current Website:** [Live Site](https://okstateacm.github.io/)  
-- **📦 Archived Backup:** [Latest Internet Archive Snapshot (Aug 2025)](https://web.archive.org/web/20250820023504/https://okstateacm.github.io/)  
-
----
-
-## 🔨 Tech Stack  
-- **Frontend:** Next.js (React), Tailwind CSS  
-- **Deployment:** GitHub Actions → GitHub Pages  
-- **Version Control:** Git, GitHub  
+- **🟢 Current Website:** [Live Site]([https://okstateacm.github.io/](https://mlle.netlify.app/))  
+- **📦 Archived Backup:** [Latest Internet Archive Snapshot (Aug 2025)]([https://web.archive.org/web/20250820023504/https://okstateacm.github.io/](https://web.archive.org/web/20250820051506/https://mlle.netlify.app/))
 
 ---
 
-## 🚀 Key Features  
-- Responsive design optimized for desktop and mobile  
-- Modular reusable components (Accordion, Officer Cards, Under Construction banners, etc.)  
-- Organized file structure for scalability and maintainability  
-- Support for event pages (Hackathons, Calendar, FAQ)  
-- Automated deployment pipeline with GitHub Actions  
+## 🛠️ Technologies & Frameworks
+* React.js
+* TensorFlow.js
+* JavaScript, HTML, CSS
+* Web Workers
+* [Plain-Draggable](https://anseki.github.io/plain-draggable/)
+* [Linker-Line](https://github.com/AhmedAyachi/LinkerLine)
 
+---
+
+## 💻 Development Tools
+* Git/GitHub
+* VS Code
+* Netlify
